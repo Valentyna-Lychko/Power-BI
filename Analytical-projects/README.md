@@ -15,7 +15,7 @@ This dashboard is designed to analyze pizza sales, catering to the interests of 
 
 The data for analysis was sourced from Kaggle, processed in Power Query. Measures were calculated in DAX, and a parameter was added to enhance dashboard interactivity.
 
-![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Pizza_All.png)
+![](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Dashboard_Images/Pizza_All.png)
 
 ---
 
@@ -46,7 +46,7 @@ This section provides a general overview of the business, including key sales me
 - **Area Chart – "Average Orders Per Hour Per Day":**
   - Most orders occur at 6 PM, fewest during morning hours.
 
-![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Pizza_Overview.png)
+![](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Dashboard_Images/Pizza_Overview.png)
 
 ---
 
@@ -62,7 +62,7 @@ This section provides detailed information on sales by pizza categories and size
 - **Toggle Buttons (Revenue, Orders, Quantity):**
   - Switch the analytic parameter on the dashboard.
 
-![]( https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Pizza_Sales.png)
+![](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Dashboard_Images/Pizza_Sales.png)
 
 ---
 
@@ -75,7 +75,7 @@ This section focuses on pizza pricing by size and compares pizza prices by area.
 - **Treemap – "Median price per m²":**
   - Visualizes the median price of pizzas per square meter.
 
-![]( https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Pizza_Price.png)
+![](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Dashboard_Images/Pizza_Price.png)
 
 ---
 
@@ -92,7 +92,7 @@ This section presents the rankings of pizzas leading in various criteria.
 - **Table – "Pizza Sizes":**
   - Details about pizza sizes and areas.
 
-![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Pizza_Leaders.png)
+![](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Dashboard_Images/Pizza_Leaders.png)
 
 ---
 
@@ -104,7 +104,7 @@ This section presents the rankings of pizzas leading in various criteria.
 ## Project Files:
 
 - **Power BI File**  
-[Pizza_Sales_Analysis.pbix](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboards/Pizza_Sales_Analysis.pbix):  
+[Pizza_Sales_Analysis.pbix](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Dashboards/Pizza_Sales_Analysis.pbix):  
 Download for a detailed view of the interactive dashboard.
 
 - **Video Demonstration:**  
