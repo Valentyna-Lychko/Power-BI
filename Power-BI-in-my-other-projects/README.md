@@ -130,6 +130,6 @@ IF(
 
 This project helps enhance Power BI skills by creating analytical solutions based on real data.  
 
-Other projects using tools such as Tableau, Looker Studio, SQL, and BigQuery can be found in the **[Data-Analytics-Projects-UA](https://github.com/Valentyna-Lychko/Data-Analytics-Projects-UA-.git)** repository.
+Other projects using tools such as Tableau, Looker Studio, SQL, and BigQuery can be found in the **[Data-Analytics-Projects](https://github.com/Valentyna-Lychko/Data-Analytics-Projects/tree/main/Dashboard_Images)** repository.
 
 ---
