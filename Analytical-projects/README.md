@@ -107,9 +107,6 @@ This section presents the rankings of pizzas leading in various criteria.
 [Pizza_Sales_Analysis.pbix](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Dashboards/Pizza_Sales_Analysis.pbix):  
 Download for a detailed view of the interactive dashboard.
 
-- **Video Demonstration:**  
-Watch the video to see the interactivity and functionality of the dashboard: [Pizza Sales Analysis - Video](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Videos/Pizza_video.mp4)
-
 ---
 
 ## Conclusions and Recommendations:
