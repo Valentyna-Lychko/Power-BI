@@ -7,7 +7,7 @@ A repository dedicated to Power BI projects: dashboards, reports, and analytics 
 
 ## Repository Overview
 
-This repository contains projects created in Power BI to demonstrate data processing, visualization, and analysis. It includes:
+This repository contains projects created in Power BI to demonstrate data phttps://github.com/Valentyna-Lychko/Power-BI/blob/main/Analytical-projects/README.mdrocessing, visualization, and analysis. It includes:
 
 1. **Analytical Projects** – Dashboards with complete data analysis cycles and insights.  
 2. **Visualizations and Reports** – Work demonstrating various techniques in Power BI.  
@@ -19,14 +19,14 @@ This repository contains projects created in Power BI to demonstrate data proces
 
 - **Pizza Sales Analysis**  
   A dashboard for analyzing pizza sales: key metrics, category-based orders, time-based activity, etc.  
-  [Detailed Description](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Analytical-projects/README.md)
+  [Detailed Description](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Analytical-projects/README.md)
 
 ---
 
 ## 2. Visualizations and Reports
 
-Work based on educational resources, demonstrating techniques for creating visualizations in Power BI.  
-[Explore Work](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Visualizations-and-reports/README.md)
+  Work based on educational resources, demonstrating techniques for creating visualizations in Power BI.  
+  [Explore Work](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Visualizations-and-Reports/README.md)
 
 ---
 
@@ -34,14 +34,14 @@ Work based on educational resources, demonstrating techniques for creating visua
 
 - **Supermarket Sales Analysis (API Integration)**  
   An analysis of supermarket sales with API integration for automatic currency exchange rate retrieval.  
-  [Learn More](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Power-BI-in-my-other-projects/README.md)
+  [Learn More](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Power-BI-in-my-other-projects/README.md)
 
 ---
 
 ## Repository Contents
 
 - **Dashboard_Images/** – Graphic images of dashboards in `.png` format or others.  
-- **Dashboard_Videos/** – Video demonstrations of dashboards.  
+  
 - **Dashboards/** – `.pbix` files.
 
 ----
