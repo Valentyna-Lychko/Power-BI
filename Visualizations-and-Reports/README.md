@@ -16,46 +16,45 @@ This project demonstrates Power BI skills, including:
 ### HR_Dashboard  
 Dynamic elements were implemented in the dashboard, changing via buttons and bookmarks. For example, the filter panel switches to a navigation panel based on user selection, and charts alternate to display different metrics. Conditional formatting was added to visually highlight critical values. It can serve as a basis for a real HR report.
 
-![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/HR_Dashboard_All.png)
+![](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Dashboard_Images/HR_Dashboard_All.png)
 
-- [Dashboard File](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboards/HR_Dashboard.pbix) 
+- [Dashboard File](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Dashboards/HR_Dashboard.pbix) 
   
-- **[Video](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Videos/HR_video.mp4)**
 
 ---
 
 ### Travel_report  
 A report with page navigation, an interactive map showing landmarks, and filters for data analysis. Includes the ability to switch between different data categories via bookmarks and buttons.
 
-![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Travel_report_All.png)
+![](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Dashboard_Images/Travel_report_All.png)
 
-- **[Dashboard File](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboards/Travel_report.pbix)** 
+- **[Dashboard File](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Dashboards/Travel_report.pbix)** 
 
 ---
 
 ### Population_Density_Map_Ukraine  
 An interactive map of Ukraine showing population density by regions. Conditional color formatting was implemented based on population density, utilizing Power BI's mapping capabilities for geodata visualization.
 
-![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Map_Ukraine.png)
+![](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Dashboard_Images/Map_Ukraine.png)
 
-- **[Dashboard File](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboards/Population_Density_Map_Ukraine.pbix)**
+- **[Dashboard File](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Dashboards/Population_Density_Map_Ukraine.pbix)**
 
 ---
 
 ### Sales_Dashboard  
 A report for analyzing basic sales metrics. DAX time intelligence functions were used for period comparisons, with filtering by categories, segments, and regions added.
 
-![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Sales_Dashboard.png)
+![](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Dashboard_Images/Sales_Dashboard.png)
 
-- **[Dashboard File](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboards/Sales_Dashboard.pbix)**  
+- **[Dashboard File](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Dashboards/Sales_Dashboard.pbix)**  
 
 ---
 
 ### Marketing_metrics  
 This dashboard contains an analysis of marketing metrics such as ROMI, CPC, CPM, CTR, enabling evaluation of ad campaign effectiveness. DAX calculated metrics, conditional formatting for quick campaign analysis, and interactive KPI cards were used.
 
-![](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboard_Images/Marketing_metrics.png)
+![](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Dashboards/Marketing_metrics.pbix)
 
-- **[Dashboard File](https://github.com/Valentyna-Lychko/Power-BI-UA/blob/main/Dashboards/Marketing_metrics.pbix)**  
+- **[Dashboard File](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Dashboards/Marketing_metrics.pbix)**  
 
 ---
