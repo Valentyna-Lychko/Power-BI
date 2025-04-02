@@ -120,11 +120,9 @@ IF(
 
 ## Repository Files:
 
-- **`dashboard.pbix`**  
+- **[Dashboard.pbix](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Dashboards/Sales_Analysis_with_Currency_Conversion.pbix)**  
   The main Power BI file containing implemented visualizations and analytics.  
 
-- **`dashboard_screenshot.png`**  
-  A screenshot of the built dashboard.
 
 ---
 
