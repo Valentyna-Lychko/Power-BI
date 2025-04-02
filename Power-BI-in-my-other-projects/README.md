@@ -16,6 +16,8 @@ This project demonstrates the process of creating an interactive dashboard in Po
 
 - The data was analyzed using Kaggle's "Supermarket Sales" dataset.
 
+![](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Dashboard_Images/Currency_Conversion.png)
+
 ---
 
 ## Dataset Description
@@ -120,7 +122,7 @@ IF(
 
 ## Repository Files:
 
-- **[Dashboard.pbix](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Dashboards/Sales_Analysis_with_Currency_Conversion.pbix)**  
+- **[Dashboards Sales_Analysis_with_Currency_Conversion.pbix](https://github.com/Valentyna-Lychko/Power-BI/blob/main/Dashboards/Sales_Analysis_with_Currency_Conversion.pbix)**  
   The main Power BI file containing implemented visualizations and analytics.  
 
 
